@@ -1,0 +1,14 @@
+.bests {
+  padding-top: 80px;
+  padding-bottom: 110px;
+  background: url('../../resources/img/paper-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  &-inner {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 39px;
+  }
+}

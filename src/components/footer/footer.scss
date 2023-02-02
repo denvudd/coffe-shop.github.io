@@ -1,0 +1,42 @@
+.footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+  &-inner {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 30px;
+  }
+
+  &-nav {
+    .nav-ul {
+      display: flex;
+      margin-left: -5px;
+
+      a {
+        margin-right: 40px;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      .nav-li {
+        font-size: 12px;
+        font-weight: 400;
+        color: #000000;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .footer-nav {
+    .nav-ul {
+      a {
+        margin-right: 20px;
+      }
+    }
+  }
+}

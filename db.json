@@ -1,0 +1,123 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "src": "https://i.postimg.cc/Y4mF1MGD/card1.jpg",
+      "biggerImg": "https://i.postimg.cc/HWc9FHFG/card1-bigger.jpg",
+      "title": "Solimo Coffee Beans 2 kg",
+      "country": "Columbia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 10.73
+    },
+    {
+      "id": 2,
+      "src": "https://i.postimg.cc/vgFVhk5Y/card2.jpg",
+      "biggerImg": "https://i.postimg.cc/x8zGmyLj/card2-bigger.jpg",
+      "title": "Presto Coffee Beans 1 kg",
+      "country": "Brazil",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "price": 15.99
+    },
+    {
+      "id": 3,
+      "src": "https://i.postimg.cc/Y4mF1MGD/card1.jpg",
+      "biggerImg": "https://i.postimg.cc/HWc9FHFG/card1-bigger.jpg",
+      "title": "AROMISTICO Coffee 1 kg",
+      "country": "Columbia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "price": 6.99
+    },
+    {
+      "id": 4,
+      "src": "https://i.postimg.cc/V6TB5HrH/card3.jpg",
+      "biggerImg": "https://i.postimg.cc/SQBfh3pn/card3-bigger.jpg",
+      "title": "Solimo Coffee Beans 2 kg",
+      "country": "Kenya",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 10.73
+    },
+    {
+      "id": 5,
+      "src": "https://i.postimg.cc/vgFVhk5Y/card2.jpg",
+      "biggerImg": "https://i.postimg.cc/x8zGmyLj/card2-bigger.jpg",
+      "title": "NESCAFE Coffe 2 kg",
+      "country": "Brazil",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "price": 8.83
+    },
+    {
+      "id": 6,
+      "src": "https://i.postimg.cc/Y4mF1MGD/card1.jpg",
+      "biggerImg": "https://i.postimg.cc/HWc9FHFG/card1-bigger.jpg",
+      "title": "Ethiopia Sidamo Coffe 100 g",
+      "country": "Columbia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 4.80
+    },
+    {
+      "id": 7,
+      "src": "https://i.postimg.cc/V6TB5HrH/card3.jpg",
+      "biggerImg": "https://i.postimg.cc/SQBfh3pn/card3-bigger.jpg",
+      "title": "Kenya Mount Selection AA Coffe 1 kg",
+      "country": "Columbia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "price": 10.30
+    },
+    {
+      "id": 8,
+      "src": "https://i.postimg.cc/vgFVhk5Y/card2.jpg",
+      "biggerImg": "https://i.postimg.cc/x8zGmyLj/card2-bigger.jpg",
+      "title": "Yirgacheffe Coffe 1 kg",
+      "country": "Kenya",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 18.99
+    },
+    {
+      "id": 9,
+      "src": "https://i.postimg.cc/Y4mF1MGD/card1.jpg",
+      "biggerImg": "https://i.postimg.cc/HWc9FHFG/card1-bigger.jpg",
+      "title": "Blasercafe Orient Coffe 250 g",
+      "country": "Brazil",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 8.99
+    },
+    {
+      "id": 10,
+      "src": "https://i.postimg.cc/Y4mF1MGD/card1.jpg",
+      "biggerImg": "https://i.postimg.cc/HWc9FHFG/card1-bigger.jpg",
+      "title": "Brazil Mogiana Coffe 1 kg",
+      "country": "Columbia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "price": 12.99
+    }
+  ],
+  "bests": [
+    {
+      "id": 21,
+      "title": "Solimo Coffee Beans 2 kg",
+      "price": 10.73,
+      "country": "Columbia",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "src": "https://i.postimg.cc/Y4mF1MGD/card1.jpg",
+      "biggerImg": "https://i.postimg.cc/HWc9FHFG/card1-bigger.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Presto Coffee Beans 1 kg",
+      "price": 15.99,
+      "country": "Brazil",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "src": "https://i.postimg.cc/vgFVhk5Y/card2.jpg",
+      "biggerImg": "https://i.postimg.cc/x8zGmyLj/card2-bigger.jpg"
+    },
+    {
+      "id": 23,
+      "title": "AROMISTICO Coffee 1 kg",
+      "price": 6.99,
+      "country": "Kenya",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "src": "https://i.postimg.cc/V6TB5HrH/card3.jpg",
+      "biggerImg": "https://i.postimg.cc/SQBfh3pn/card3-bigger.jpg"
+    }
+  ]
+}
